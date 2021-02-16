@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+
+    font-weight: normal;
+    font-size: 50px;
+
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+h3 {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.description {
+    font-size: 21px;
+    color: gray;
+}
+
+#camp{
+    padding-bottom: 25px;
+}
+
+#page-container{
+    position: relative;
+    min-height: 100vh;
+}
+
+#content-wrap {
+    padding-bottom: 2.5rem;    /* Footer height */
+  }
+
+footer {
+    text-align: right;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    height: 2.5rem;
+}
