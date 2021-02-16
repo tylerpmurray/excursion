@@ -21,6 +21,10 @@ h3 {
     color: aquamarine;
     font-size: 16px;
 }
+a:link {
+    color: aquamarine;
+
+  }
 
 .description {
     font-size: 21px;
